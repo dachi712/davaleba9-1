@@ -1,0 +1,53 @@
+h1{
+    color: #8E26C0;
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+}
+#amazingChance{
+    color: red;
+    background-color: #FFE8E8;
+    width: 330px;
+    height: 35px;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+}
+#exclusiveOffer{
+    width: 660px;
+    height: 90px;
+    font-size: 30px;
+    background-color: white;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    padding-left: 25px;
+    border-top: ridge rgb(4, 167, 118);
+    border-right: ridge blue;
+    border-bottom: ridge purple;
+    border-left: ridge red;
+}
+#sales{
+    background-color:#FFE8E8 ;
+    width: 676px;
+    height: 90px;
+    font-size: 25px;
+    text-align: center;
+    padding: 12px;
+    color: grey;
+}
+#fasdakleba{
+color: orangered;
+font-size: 30px;
+text-decoration: underline;
+}
+#shop{
+    font-size: 25px;
+    color: #3538CD;
+    border: solid #3538CD;
+    width: 660px;
+    height: 35px;
+    text-align: center;
+    padding: 12px;
+    padding-left: 70px;
+}
