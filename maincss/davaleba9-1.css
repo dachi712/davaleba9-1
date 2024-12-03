@@ -1,53 +1,86 @@
-h1{
-    color: #8E26C0;
-    text-align: center;
-    font-size: 40px;
+.h1 {
+    width: 614px;
+    left: 653px;
     width: 100%;
+    text-align: center;
+
 }
-#amazingChance{
-    color: red;
+
+#sale {
+    font-family: JetBrains Mono;
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+    color: #8E26C0;
+}
+
+#chance {
+    width: 446px;
+    height: 38px;
+    margin: left;
+    padding: 24px 40px;
     background-color: #FFE8E8;
-    width: 330px;
-    height: 35px;
-    text-align: center;
-    font-size: 25px;
-    padding: 15px;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: left;
+    color: #FF0000;
 }
-#exclusiveOffer{
-    width: 660px;
-    height: 90px;
-    font-size: 30px;
-    background-color: white;
-    color: grey;
+
+#advantage {
+    width: 943px;
+    height: 96px;
+    padding: 24px 40px;
+    border-right: 6px solid #0055FF;
+    border-left: 4px solid #C11574;
+    border-bottom: 2px solid #7F56D9;
+    border-top: 2px solid #00C76E;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
     text-align: center;
-    padding: 10px;
-    padding-left: 25px;
-    border-top: ridge rgb(4, 167, 118);
-    border-right: ridge blue;
-    border-bottom: ridge purple;
-    border-left: ridge red;
+    color: #85647B;
 }
-#sales{
-    background-color:#FFE8E8 ;
-    width: 676px;
-    height: 90px;
-    font-size: 25px;
+
+#discounts {
+    width: 943px;
+    height: 85px;
+    padding: 24px 40px;
+    background: #FFE8E8;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
     text-align: center;
-    padding: 12px;
-    color: grey;
 }
-#fasdakleba{
-color: orangered;
-font-size: 30px;
-text-decoration: underline;
-}
-#shop{
-    font-size: 25px;
-    color: #3538CD;
-    border: solid #3538CD;
-    width: 660px;
-    height: 35px;
+
+#span {
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
     text-align: center;
-    padding: 12px;
-    padding-left: 70px;
+
+    color: red;
+}
+
+#opportunity {
+    width: 989px;
+    height: 38px;
+    padding: 24px 40px;
+    border: 2px solid #3538CD;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38.4px;
+    text-align: right;
+    color: #0064CE;
+}
+
+#image1 {
+    width: 556px;
+    height: 347px;
+    margin: left;
 }
